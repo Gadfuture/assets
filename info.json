@@ -1,0 +1,9 @@
+﻿{
+  "name": "Tether",
+  "explorer": "https://etherscan.io/token/0x8321e6c0798d481b0113cF31D3dC0F3b9564caA7",
+  "type": "ERC20",
+  "symbol": "USDT",
+  "decimals": 6,
+  "status": "active",
+  "id": "0x8321e6c0798d481b0113cF31D3dC0F3b9564caA7"
+}
